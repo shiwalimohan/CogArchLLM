@@ -1,0 +1,21 @@
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many punches did he throw in the first fight?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many punches did he throw in the second fight?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many punches did he throw in the fight?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 4 rounds of 5 minutes. Second fight lasts 5 rounds of 3 minutes. How many punches did he throw in the fight?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many punches did he throw in both fights?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many total punches did he throw in both fights?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many punches did he throw in previous fight?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many punches did he throw in next fight?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many punches did he throw in before fight?", PROMPT1)
+#%%
+get_answer("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many punches did he throw in later fight?", PROMPT1)
+#%%
+response = get_content("On average Joe throws 25 punches per minute. First fight lasts 5 rounds of 3 minutes. Second fight lasts 4 rounds of 5 minutes. How many total punches did he throw?", PROMPT)
